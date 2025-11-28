@@ -39,7 +39,3 @@ Tato pravidla se kontrolují při opravách i v rámci automatických testů.
 - Odevzdávejte čisté commity – každý commit má mít jasný popis.
 - Neposílejte do repozitáře soubory, které tam nepatří (např. vendor/, .idea/).
 - Commitujte postupně, ne až před deadlinem.
-
-## 📝 Licence
-
-Tento projekt slouží ke školní výuce. Kopírování mimo školní účely není povoleno bez souhlasu vyučujícího.
